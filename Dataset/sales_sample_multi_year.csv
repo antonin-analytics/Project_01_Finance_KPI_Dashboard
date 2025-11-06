@@ -1,0 +1,10 @@
+Project_01_Finance_KPI_Dashboard/
+│
+├─ Dataset/
+│    └─ sales_sample_multi_year.csv
+│
+├─ PowerBI/
+│    └─ Finance_KPI_Dashboard.pbix
+│
+└─ Documentation/
+     └─ README.md
